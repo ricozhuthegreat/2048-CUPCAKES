@@ -871,3 +871,32 @@ hr {
   margin-top: 40px;
   margin-right: 20px;
   text-align: right; }
+
+  
+.ai-panel {
+  position: absolute;
+  left: 505px;
+  top: 0;
+  width: 200px;
+  height: auto;
+  background-color:#CCC0B9;
+  border-radius: 6px;
+  padding: 10px; }
+.ai-panel-header {
+  font-weight:bold;
+  margin-top: 13px;}
+.stats-container {
+  display: inline-block;
+}
+.stats-number {
+  float:left;
+  text-align:right;
+  font-weight:bold;
+  width: 70px;
+  padding: 5px;
+  clear: left;}
+.stats-value {
+  float:left;
+  text-align:left;
+  width: 100px;
+  padding: 5px;}
